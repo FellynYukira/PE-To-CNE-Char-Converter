@@ -6,3 +6,7 @@ convert psych character to codename character
 ## Credits
 - Fellyn - made the program
 - Ncy - made the fellyn icon
+
+## Made with
+- Python
+- Tkinter
